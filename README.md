@@ -1,4 +1,4 @@
-# Reliable-and-Interpretable-AI-HS18
+# Reliable-and-Interpretable-AI-HS18 - how to add constarints (in the form of fuzzy logic)
 Assignments, projects and cheatsheet for the ETH Zurich Reliable and Interpretable Artificial Intelligence class autumn 2018.
 
 The class covered the following topics:
